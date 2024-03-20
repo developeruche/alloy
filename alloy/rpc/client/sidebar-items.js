@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":["BatchRequest","ClientBuilder","IpcConnect","PollChannel","PollerBuilder","RpcCall","RpcClient","WsConnect"],"type":["ClientRef","WeakClient"]};

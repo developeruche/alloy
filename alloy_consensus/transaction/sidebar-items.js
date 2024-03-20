@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":["eip1559","eip2930","eip4844","envelope","legacy","typed"],"trait":["SignableTransaction","Transaction"]};

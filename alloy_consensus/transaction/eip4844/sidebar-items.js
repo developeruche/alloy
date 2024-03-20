@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["BlobTransactionValidationError","TxEip4844Variant"],"fn":["kzg_to_versioned_hash"],"mod":["builder","utils"],"struct":["BlobTransactionSidecar","BlobTransactionSidecarRlp","TxEip4844","TxEip4844WithSidecar"]};
